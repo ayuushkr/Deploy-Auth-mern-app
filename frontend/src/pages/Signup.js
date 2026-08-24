@@ -31,7 +31,7 @@ function Signup() {
         }
 
         try{
-            const url = "http://localhost:8080/auth/signup";
+            const url = "https://deploy-auth-mern-app-api.vercel.app/auth/Signup";
             const response = await fetch(url, {
                 method: "POST",
                 headers: {
