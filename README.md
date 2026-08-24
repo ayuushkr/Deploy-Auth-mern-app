@@ -132,3 +132,13 @@ This project provided practical experience with:
 * Form validation
 * Client-side session handling
 * Frontend-backend communication
+
+
+👨‍💻 Developer
+Ayush Kumar
+
+MCA | Full Stack / MERN Stack Developer
+
+⭐ If you find this project useful, consider giving the repository a star!
+
+  
